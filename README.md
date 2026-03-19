@@ -1,8 +1,14 @@
-# AI-Tools-Graphic-editor-DELL-E
-Developing and executing Test Cases;
-Requirements reviewing with Product Owner;
-Developing Decomposition;
-Developing test cases using test design techniques;
-Creating and executing test runs in TestRail;
-Creating Requirements Traceability Matrix;
-Reporting bugs into Jira.
+# Project: DALL-E Graphic Editor Testing
+
+Scope:
+Tested web-based graphic editor
+
+What I did:
+- Created 89 test cases
+- Executed test runs in TestRail
+- Reported 15 bugs in Jira
+
+Artifacts:
+- Test cases
+- Bug reports
+- Test plan
